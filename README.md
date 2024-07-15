@@ -20,7 +20,7 @@ Vous commencez votre mission en tant que data analyst freelance chez BottleNeck.
 ## 📂 Structure du Repository
 ```
 ├── Data                                                             # Base de données du projet
-├── Moreno_Bastien_1_notebook_022023.ipynb                           # Notebook de l'étude de santé publique
+├── Moreno_Bastien_1_notebook_022023.ipynb                           # Notebook de traitement et analyse des données
 ├── README.md                                                        # Ce fichier
 ```
 
